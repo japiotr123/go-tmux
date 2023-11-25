@@ -1,4 +1,4 @@
-module github.com/jubnzv/go-tmux
+module github.com/japiotr123/go-tmux
 
 go 1.12
 
